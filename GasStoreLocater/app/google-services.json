@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "495044847780",
+    "firebase_url": "https://gas-store-locater.firebaseio.com",
+    "project_id": "gas-store-locater",
+    "storage_bucket": "gas-store-locater.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495044847780:android:3e5e4a59070e759816de31",
+        "android_client_info": {
+          "package_name": "com.example.gasstorelocater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495044847780-0c733k6r55ada8h45927f83vv48s87ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs0EH_L9_wp6tNKolA4CvB02xHIcN4JyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495044847780-0c733k6r55ada8h45927f83vv48s87ha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
